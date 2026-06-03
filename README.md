@@ -1,4 +1,4 @@
-![MasterHead](https://camo.githubusercontent.com/775ed67e1d46c9534c3cb9a4694edf0603b1436a7e3e15891d3c327733fc26b6/68747470733a2f2f7777772e61756469656e6365706c616e65742e636f6d2f726f6f742f74656d706c6174652f312f2f696d616765732f7765622d646576656c6f706d656e742e676966)
+![MasterHead](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
 <h1 align="center">Hi 👋, I'm Ramya B N</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
 <img src="https://user-images.githubusercontent.com/70203777/243173180-d284bbf4-c3c1-4b86-9238-36d87b2e01f3.gif" alt="coding" align="right" width="400"/>
