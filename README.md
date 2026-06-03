@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ramya</h1>
-<h3 align="center">Senior Frontend Developer | React.js | React Native | TypeScript</h3>
+<h1 align="center">Hi 👋, I'm Ramya BN</h1>
+<h3 align="center">Senior Sofware Engineer | Frontend Developer | React.js | React Native | TypeScript</h3>
 <img src="https://user-images.githubusercontent.com/70203777/243173180-d284bbf4-c3c1-4b86-9238-36d87b2e01f3.gif" alt="coding" align="right" width="400"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramyabn03&label=Profile%20views&color=0e75b6&style=flat" alt="ramyabn03" /> </p>
